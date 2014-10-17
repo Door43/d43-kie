@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kie:home|Door43 (kie)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kie|d43-kie repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kie/archive/master.zip|d43-kie.zip]]
+
+**Recent Changes**
+{{changes>ns = kie}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kie|Ethnologue data]]
+
